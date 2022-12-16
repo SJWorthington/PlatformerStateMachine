@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3378de94-569c-4251-b90c-935c2715fe98" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5B75411-C8CD-4BFA-A9E7-60BE20206F29/b1/068d6219/GameObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5B75411-C8CD-4BFA-A9E7-60BE20206F29/fd/c8ac2019/Quaternion.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingPlatformChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0EBEB27C-A6DF-45BB-AEEC-500DC98FF733/f9/c779a0f7/HashSet`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5B75411-C8CD-4BFA-A9E7-60BE20206F29/f6/a63098b4/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DisappearingFloor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.inputsystem@1.0.1/InputSystem/Actions/InputAction.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingPlatform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0EBEB27C-A6DF-45BB-AEEC-500DC98FF733/23/7c629d00/Enumerable.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7765070B-AFF7-442E-A7A7-D482361E5065/ce/32ca0f08/Animator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Super Jump Alien Friend/Assets/scripts/Platform.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ProjectileLauncher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5B75411-C8CD-4BFA-A9E7-60BE20206F29/e6/0ec74cd1/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/65CAB14A-C59E-4552-B77F-98A4AED18F9E/09/891b6a7e/Physics2D.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Untitled SRPG/Assets/Scripts/UnitMovementController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5B75411-C8CD-4BFA-A9E7-60BE20206F29/dc/239150a8/SpriteRenderer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5B75411-C8CD-4BFA-A9E7-60BE20206F29/62/8969cb5b/Transform.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/IL/0EBEB27C-A6DF-45BB-AEEC-500DC98FF733/a1/d0df1170/02000095.il" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SuperStates/PlayerGroundedBaseState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E5B75411-C8CD-4BFA-A9E7-60BE20206F29/76/942316a4/Vector2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../Untitled SRPG/Assets/Scripts/TileController.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Old/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerInputHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Old/PlayerStateController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerLandState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerIdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SuperStates/PlayerAbilityState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerMoveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerWallSlideState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerWallClimbState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerWallGrabState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SuperStates/PlayerGroundedState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerWallJumpState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SuperStates/PlayerTouchingWallState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/PlayerState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerFlipGravityState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SuperStates/PlayerGravityTunnelBaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerLedgeClimbState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerGravityTunnelGroundedBaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/GravityTunnerIdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/GravityTunnelIdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovingPlatform.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/PlayerBaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GravityTunnelTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Input/PlayerInputHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerGravityTunnelIdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerFlipGravityAbilityState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerGravityTunnelLandState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerJumpState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SuperStates/PlayerGroundedBaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SuperStates/PlayerTouchingWallBaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerGravityTunnelMoveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SuperStates/PlayerStandardGravityBaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerGravityTunnelInAirState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerAntiGravSwimAbilityState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerAntiGravityZoneState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AntiGravityTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerAntiGravZoneRotateState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SuperStates/PlayerAbilityBaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SuperStates/PLayerGravPlanetGroundedBaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerAntiGravityZoneIdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SuperStates/PlayerGravityTunnelGroundedBaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerGravPlanetJumpState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlanetGravityTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerGravPlanetIdleState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerInAirState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Old/PlayerGravityPlanetMovementController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/Data/PlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SuperStates/PlayerGravPlanetGroundedBaseState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerGravPlanetMoveState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/Player.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerStateMachine/States/SubStates/PlayerGravPlanetInAirState.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mYZOgtvfCBQ5yD3xL6QQC0Pj1h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.35057914" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.2996139" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3378de94-569c-4251-b90c-935c2715fe98" name="Default Changelist" comment="" />
+      <created>1609672455756</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609672455756</updated>
+      <workItem from="1609672520898" duration="84532000" />
+      <workItem from="1611079211759" duration="10532000" />
+      <workItem from="1611173819452" duration="8337000" />
+      <workItem from="1611516912506" duration="41515000" />
+      <workItem from="1612802286285" duration="26481000" />
+      <workItem from="1613489256577" duration="45733000" />
+      <workItem from="1614795403337" duration="1826000" />
+      <workItem from="1616356084280" duration="8458000" />
+      <workItem from="1616399837261" duration="4283000" />
+      <workItem from="1616487059392" duration="2276000" />
+      <workItem from="1616524988561" duration="2322000" />
+      <workItem from="1616660500002" duration="4570000" />
+      <workItem from="1617629543831" duration="21412000" />
+      <workItem from="1630764436377" duration="3543000" />
+      <workItem from="1661283562687" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="365" y="168" width="637" height="534" key="find.popup" timestamp="1630766802962">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="365" y="168" width="637" height="534" key="find.popup/0.0.1368.872@0.0.1368.872" timestamp="1630766802962" />
+  </component>
+</project>

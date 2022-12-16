@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\steph\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\steph\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Ori Bash.-703999310.00" t="ExcludeRecursive" />
+    <e p="C:\Users\steph\Projects\Unity2d\Ori Bash" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="AntiGravityTrigger.cs" t="Include" />
+          <e p="Collectible.cs" t="Include" />
+          <e p="CollectiblesManager.cs" t="Include" />
+          <e p="DisappearingFloor.cs" t="Include" />
+          <e p="GravityTunnelTrigger.cs" t="Include" />
+          <e p="MovingPlatform.cs" t="Include" />
+          <e p="MovingPlatformChecker.cs" t="Include" />
+          <e p="MovingPlatformPoint.cs" t="Include" />
+          <e p="PlanetGravityTrigger.cs" t="Include" />
+          <e p="Player" t="Include">
+            <e p="Data" t="Include">
+              <e p="PlayerData.cs" t="Include" />
+            </e>
+            <e p="Input" t="Include">
+              <e p="BasicPlayerControls.cs" t="Include" />
+              <e p="PlayerInputHandler.cs" t="Include" />
+            </e>
+            <e p="Old" t="Include">
+              <e p="PlayerAntiGravityMovementController.cs" t="Include" />
+              <e p="PlayerController.cs" t="Include" />
+              <e p="PlayerGravityController.cs" t="Include" />
+              <e p="PlayerGravityPlanetMovementController.cs" t="Include" />
+              <e p="PlayerJumpGravityTunnelController.cs" t="Include" />
+              <e p="PlayerLayerController.cs" t="Include" />
+              <e p="PlayerRotationController.cs" t="Include" />
+              <e p="PlayerStateController.cs" t="Include" />
+            </e>
+            <e p="PlayerStateMachine" t="Include">
+              <e p="Player.cs" t="Include" />
+              <e p="PlayerBaseState.cs" t="Include" />
+              <e p="PlayerStateMachine.cs" t="Include" />
+              <e p="States" t="Include">
+                <e p="SubStates" t="Include">
+                  <e p="PlayerAntiGravityZoneIdleState.cs" t="Include" />
+                  <e p="PlayerAntiGravSwimAbilityState.cs" t="Include" />
+                  <e p="PlayerAntiGravZoneRotateState.cs" t="Include" />
+                  <e p="PlayerFlipGravityAbilityState.cs" t="Include" />
+                  <e p="PlayerGravityTunnelIdleState.cs" t="Include" />
+                  <e p="PlayerGravityTunnelInAirState.cs" t="Include" />
+                  <e p="PlayerGravityTunnelLandState.cs" t="Include" />
+                  <e p="PlayerGravityTunnelMoveState.cs" t="Include" />
+                  <e p="PlayerGravPlanetIdleState.cs" t="Include" />
+                  <e p="PlayerGravPlanetInAirState.cs" t="Include" />
+                  <e p="PlayerGravPlanetJumpState.cs" t="Include" />
+                  <e p="PlayerGravPlanetMoveState.cs" t="Include" />
+                  <e p="PlayerIdleState.cs" t="Include" />
+                  <e p="PlayerInAirState.cs" t="Include" />
+                  <e p="PlayerJumpState.cs" t="Include" />
+                  <e p="PlayerLandState.cs" t="Include" />
+                  <e p="PlayerLedgeClimbState.cs" t="Include" />
+                  <e p="PlayerMoveState.cs" t="Include" />
+                  <e p="PlayerWallClimbState.cs" t="Include" />
+                  <e p="PlayerWallGrabState.cs" t="Include" />
+                  <e p="PlayerWallJumpState.cs" t="Include" />
+                  <e p="PlayerWallSlideState.cs" t="Include" />
+                </e>
+                <e p="SuperStates" t="Include">
+                  <e p="PlayerAbilityBaseState.cs" t="Include" />
+                  <e p="PlayerGravityTunnelGroundedBaseState.cs" t="Include" />
+                  <e p="PLayerGravPlanetGroundedBaseState.cs" t="Include" />
+                  <e p="PlayerGroundedBaseState.cs" t="Include" />
+                  <e p="PlayerStandardGravityBaseState.cs" t="Include" />
+                  <e p="PlayerTouchingWallBaseState.cs" t="Include" />
+                </e>
+              </e>
+            </e>
+          </e>
+          <e p="ProjectileController.cs" t="Include" />
+          <e p="ProjectileLauncher.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Ori Bash.sln" t="IncludeFlat" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
